@@ -51,7 +51,7 @@ Built an 8-chart Excel dashboard from exported query results covering revenue tr
 - Restaurant generated **$185,817** in revenue across **4,817 delivered orders** over 15 months with an average order value of **$38.58**
 - Monthly order volume grew **20x** from January 2025 (29 orders) to November 2025 (614 orders), while average order value remained stable at ~$38-40 — indicating growth driven by customer acquisition rather than increased spend per order
 
-  ![Revenue by Month](images/revenue_by_month.png)
+  ![Revenue by Month](images/monthly_revenue.png)
 
 **Peak Demand**
 - Two daily peaks identified across all days: **lunch (11am–1pm)** and **dinner (5pm–10pm)**, with a consistent dead zone between 2pm–4pm
