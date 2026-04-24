@@ -6,7 +6,7 @@
 ## Executive Summary
 
 Designed and implemented a 9-table normalized relational database simulating 15 months of restaurant operations, cleaning 7,000+ synthetic transaction records in Python and engineering 12 SQL analytical queries across revenue, menu performance, operations, and customer dimensions. Key findings include a 20x growth in monthly order volume over 11 months, a revenue-volume divergence in menu performance where the highest-priced item outearned the most-ordered item, and a 2x spread in employee cancel rates pointing to measurable performance gaps.
-
+[→ View Deliverable](https://github.com/Hugoortega1025/restaurant-operations-analytics/blob/main/Restaurant_Analytics_Deck.pdf)
 ---
 
 ## Business Problem
